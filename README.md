@@ -3,7 +3,7 @@ Hi! My name is Danil. I'm a 17yo .NET backend developer from Rostov who is curio
 
 ### Stack & skills
 - Regularly using `C#` `English B2` `ASP.NET Core` `Entity Framework Core` `Docker` `Hangfire` `Mapster`
-- Used in the past `WPF` `Windows Forms` `MediatR` `F#` `Python`
+- Used in the past `C++` `WPF` `Windows Forms` `MediatR` `F#` `Python`
 - Have touched `RabbitMQ` `Ocelot` `React` `Blazor` `Haskell`
 
 ### Currently studying
