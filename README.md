@@ -4,7 +4,7 @@ Hi! My name is Danil. I'm a 17yo .NET backend developer from Rostov who is curio
 ### Stack & skills
 - Regularly using `C#` `English B2` `ASP.NET Core` `Entity Framework Core` `Docker` `Git` `Hangfire` `Mapster`
 - Used in the past `C++` `WPF` `Windows Forms` `MediatR` `F#` `Python`
-- Have touched `RabbitMQ` `Ocelot` `React` `Blazor` `Haskell`
+- Have touched `RabbitMQ` `Ocelot` `Hashicorp Vault` `React` `Blazor` `Haskell`
 
 ### Currently studying
 - Microservice architecture `Ocelot` `RabbitMQ` `Kubernetes`
@@ -12,7 +12,7 @@ Hi! My name is Danil. I'm a 17yo .NET backend developer from Rostov who is curio
 
 ### Pets
 - [Crowd Parlay](https://github.com/crowd-parlay) (in progress) — a future betting platform fully powered by microservices `ASP.NET Core` `React` `Ocelot` `RabbitMQ` `Mapster` `MediatR`
-- [Radzinsky](https://github.com/undrcrxwn/radzinsky) (production ready) — a multifunctional Telegram bot primarily used for chat-management and entertainment `C#` `ASP.NET Core` `Telegram.Bots` `Hangfire` `Mapster` `Vault` `Docker`
+- [Radzinsky](https://github.com/undrcrxwn/radzinsky) (production ready) — a multifunctional Telegram bot primarily used for chat-management and entertainment `C#` `ASP.NET Core` `Telegram.Bots` `Hangfire` `Mapster` `Docker`
 - [Hide This Bot](https://github.com/undrcrxwn/hide-this-bot) (finished & deployed) — an inline Telegram bot that has an incredibly wide community from all over the globe `Python` `Aiogram` `PeeWee`
 
 ### Reach me
