@@ -6,10 +6,6 @@ Hi! My name is Danil. I'm a 17yo .NET backend developer from Rostov who is curio
 - Ever used `Kubernetes` `Istio` `C++` `WPF` `Windows Forms` `MediatR` `Python`
 - Have touched `F#` `RabbitMQ` `Hashicorp Vault` `React` `Blazor` `Haskell`
 
-### Currently studying
-- Microservice architecture `Ocelot` `RabbitMQ` `Kubernetes`
-- Domain-driven development
-
 ### Pets
 - [Crowd Parlay](https://github.com/crowd-parlay) (in progress) — a future betting platform fully powered by microservices `ASP.NET Core` `Istio` `React` `RabbitMQ` `Mapster` `MediatR`
 - [Radzinsky](https://github.com/undrcrxwn/radzinsky) (production ready) — a multifunctional Telegram bot primarily used for chat-management and entertainment `C#` `ASP.NET Core` `Telegram.Bots` `Hangfire` `Mapster` `Docker`
