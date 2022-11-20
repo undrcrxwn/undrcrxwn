@@ -2,8 +2,8 @@
 Hi! My name is Danil. I'm a 17yo .NET backend developer from Rostov who is curious about software engineering and architecture. Have been studying for my bachelor's degree in computer science at the Don State Technical University since 2022.
 
 ### Stack & skills
-- Regularly using `C#` `English B2` `ASP.NET Core` `Entity Framework Core` `Docker` `Git` `Hangfire` `Mapster`
-- Ever used `Kubernetes` `C++` `WPF` `Windows Forms` `MediatR` `Python`
+- Regularly using `C#` `ASP.NET Core` `Entity Framework Core` `Docker` `Git` `Hangfire` `Mapster`
+- Ever used `Kubernetes` `Istio` `C++` `WPF` `Windows Forms` `MediatR` `Python`
 - Have touched `F#` `RabbitMQ` `Hashicorp Vault` `React` `Blazor` `Haskell`
 
 ### Currently studying
