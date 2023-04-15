@@ -1,10 +1,6 @@
 ### Bio
-Hi! My name is Danil. I'm a 17yo .NET backend developer from Rostov who is curious about software engineering and architecture. Have been studying for my bachelor's degree in computer science at the Don State Technical University since 2022.
+Hi! My name is Danil. I'm a 18yo .NET backend developer from Rostov-on-Don who is curious about software engineering and architecture. Have been studying for my bachelor's degree in computer science at the Don State Technical University since 2022.
 
-### Stack & skills
-- Regularly using `C#` `ASP.NET Core` `Entity Framework Core` `Docker` `Git` `Hangfire` `Mapster`
-- Ever used `Kubernetes` `Istio` `C++` `WPF` `Windows Forms` `MediatR` `Python`
-- Have touched `F#` `RabbitMQ` `Hashicorp Vault` `React` `Blazor` `Haskell`
 
 ### Pets
 - [Crowd Parlay](https://github.com/crowd-parlay) (in progress) — a future betting platform fully powered by microservices `ASP.NET Core` `Istio` `React` `RabbitMQ` `Mapster` `MediatR`
