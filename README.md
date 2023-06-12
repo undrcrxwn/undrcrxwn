@@ -3,9 +3,9 @@ Hi! My name is Danil. I'm an 18yo .NET backend developer from Rostov-on-Don who 
 
 
 ### Pets
-- [Crowd Parlay](https://github.com/crowdparlay) (in progress) — a future betting platform fully powered by microservices `C#` `TypeScript` `ASP.NET Core` `Vue` `Kubernetes` `Istio` `Kafka`
-- [Radzinsky](https://github.com/undrcrxwn/radzinsky) (production ready) — a multifunctional Telegram bot primarily used for chat-management and entertainment `C#` `ASP.NET Core` `Telegram.Bots` `Hangfire` `Mapster` `Docker`
-- [Hide This Bot](https://github.com/undrcrxwn/hide-this-bot) (finished & deployed) — an inline Telegram bot that has an incredibly wide community from all over the globe `Python` `Aiogram` `PeeWee`
+- [Crowd Parlay](https://gitlab.otter.su/crowdparlay) (in progress) — a C2C betting platform fully powered by microservices `C#` `ASP.NET Core` `Kafka` `PostgreSQL` `React` `TypeScript` `Kubernetes` `Istio`
+- [Radzinsky](https://github.com/undrcrxwn/radzinsky) — a multifunctional Telegram bot primarily used for chat-management and entertainment `C#` `ASP.NET Core` `Hangfire` `Mapster` `Docker` `Telegram.Bots`
+- [Hide This Bot](https://github.com/undrcrxwn/hide-this-bot) — an inline Telegram bot that has gained an incredibly wide community from all over the globe `Python` `Aiogram` `PeeWee`
 
 ### Reach me
 - [Telegram](https://t.me/undrcrxwn)
