@@ -6,7 +6,7 @@ Hi! My name is Danil. I'm an 18yo .NET backend developer from Rostov-on-Don who 
 - 🪅 [Crowd Parlay](https://gitlab.otter.su/crowdparlay) — a C2C betting platform
   - languages `C#` `TypeScript` `SQL` `Cypher` `HTML` `SCSS`
   - technologies `🦄 RabbitMQ` `.NET 7` `ASP.NET Core` `React` `Postgres` `Docker` `Kubernetes` `Istio`
-  - architecture `microservices` `event-driven` `service mesh`
+  - architecture `Microservices` `Event-driven` `Service mesh`
   - workflow `Jira` `GitLab` `Miro`
 - [Radzinsky](https://github.com/undrcrxwn/radzinsky) — a multifunctional Telegram bot primarily used for chat-management and entertainment
   - languages `C#`
