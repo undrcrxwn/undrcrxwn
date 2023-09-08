@@ -7,7 +7,7 @@ Hi! My name is Danil. I'm an 18yo .NET backend developer from Rostov-on-Don who 
   - languages `C#` `TypeScript` `SQL` `Cypher` `HTML` `SCSS`
   - technologies `🦄 RabbitMQ` `MassTransit` `.NET 7` `ASP.NET Core` `React` `Postgres` `Neo4j` `Docker` `Kubernetes` `Istio`
   - architecture `Microservices` `Event-driven` `Service mesh`
-  - workflow `5+ contributors` `GitLab` `Miro` `Notion` `Telegram`
+  - workflow `>5 contributors` `GitLab` `Miro` `Notion` `Telegram`
 - [Radzinsky](https://github.com/undrcrxwn/radzinsky) — a multifunctional Telegram bot primarily used for chat-management and entertainment
   - languages `C#`
   - technologies `.NET 8` `ASP.NET Core` `EF Core` `Hangfire` `Mapster` `Docker` `Telegram.Bots`
