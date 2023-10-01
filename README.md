@@ -4,7 +4,7 @@ Hi! My name is Danil. I'm an 18yo .NET backend developer from Rostov-on-Don who 
 
 ## Pets
 - __🪅 [Crowd Parlay](https://gitlab.otter.su/crowdparlay)__ — a C2C bet argregation platform on microservices
-  - languages `C#` `TypeScript` `SQL` `Cypher` `HTML` `SCSS`
+  - languages -$sfdsd `C#` `TypeScript` `SQL` `Cypher` `HTML` `SCSS`
   - technologies `🦄 RabbitMQ` `MassTransit` `.NET 7` `ASP.NET Core` `React` `Postgres` `Neo4j` `Swagger` `OpenID Connect` `Docker` `Kubernetes` `Istio`
   - architecture `Microservices` `Event-driven` `Service mesh`
   - workflow `>5 contributors` `GitLab` `CI/CD` `Kanban` `Conventional commits` `Miro`
