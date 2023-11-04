@@ -1,9 +1,9 @@
 ## Bio
-Hi! My name is Danil. I'm an 18yo .NET backend developer from Rostov-on-Don who is curious about software engineering, architecture and system design. Have been studying for my bachelor's degree in computer science at the Don State Technical University since 2022. Dramatically unemployed.
+Hi! My name is Danil. I'm an 18yo .NET backend developer from Rostov-on-Don, Russia who is curious about software engineering, architecture and system design. Have been studying for my bachelor's degree in computer science at the Don State Technical University since 2022. Dramatically unemployed.
 
 
 ## Pets
-- 🪅 __[Crowd Parlay](https://gitlab.otter.su/crowdparlay)__ — a C2C bet agregation platform on microservices
+- 🪅 __[Crowd Parlay](https://github.com/crowdparlay)__ — a C2C bet agregation platform on microservices
   - languages `C#` `TypeScript` `SQL` `Cypher` `HTML` `SCSS`
   - technologies `🦄 RabbitMQ` `MassTransit` `.NET 7` `ASP.NET Core` `React` `Postgres` `Neo4j` `Swagger` `OpenID Connect` `Docker` `Kubernetes` `Istio`
   - architecture `Microservices` `Event-driven` `Service mesh`
