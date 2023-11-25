@@ -5,7 +5,7 @@ Hi! My name is Danil. I'm an 18yo .NET backend developer from Rostov-on-Don, Rus
 ## Pets
 - 🪅 __[Crowd Parlay](https://github.com/crowdparlay)__ — a C2C bet agregation platform on microservices
   - languages `C#` `TypeScript` `SQL` `Cypher` `HTML` `SCSS`
-  - technologies `🦄 RabbitMQ` `MassTransit` `.NET 7` `ASP.NET Core` `React` `Postgres` `Neo4j` `Swagger` `OpenID Connect` `Docker` `Kubernetes` `Istio`
+  - technologies `🦄 RabbitMQ` `MassTransit` `.NET 7` `ASP.NET Core` `React` `Postgres` `Neo4j` `Swagger` `OpenID Connect` `Docker` `Kubernetes` `Istio` `GitHub Actions`
   - architecture `Microservices` `Event-driven` `Service mesh`
   - workflow `>5 contributors` `GitLab` `CI/CD` `Kanban` `Conventional commits` `Miro`
 - __[Radzinsky](https://github.com/undrcrxwn/radzinsky)__ — a multifunctional Telegram bot primarily used for chat-management and entertainment
