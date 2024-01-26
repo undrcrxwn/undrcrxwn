@@ -3,7 +3,7 @@ Hi! My name is `Danil`. I'm an `18yo` `.NET` backend developer from Rostov-on-Do
 
 
 ## Pets
-### __[🥇 Crowd Parlay](https://github.com/crowdparlay)__ — a C2C bet agregation platform on microservices
+### __[🥇 Crowd Parlay](https://github.com/crowdparlay)__ — a C2C bet aggregation platform on microservices
 - **languages:** <kbd>C#</kbd> <kbd>TypeScript</kbd> <kbd>SQL</kbd> <kbd>Cypher</kbd> <kbd>HTML</kbd> <kbd>SCSS</kbd>
 - **technologies:** <kbd>🦄 RabbitMQ</kbd> <kbd>MassTransit</kbd> <kbd>.NET 7</kbd> <kbd>ASP.NET Core</kbd> <kbd>React</kbd> <kbd>Postgres</kbd> <kbd>Neo4j</kbd> <kbd>Swagger</kbd> <kbd>OpenID Connect</kbd> <kbd>Docker</kbd> <kbd>Kubernetes</kbd> <kbd>Istio</kbd> <kbd>GitHub Actions</kbd>
 - **architecture:** <kbd>Microservices</kbd> <kbd>Event-driven</kbd> <kbd>Service mesh</kbd>
