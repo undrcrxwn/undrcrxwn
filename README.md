@@ -1,20 +1,20 @@
 ## Bio
-Hi! My name is Danil. I'm an 18yo .NET backend developer from Rostov-on-Don, Russia who is curious about software engineering, architecture and system design. Have been studying for my bachelor's degree in computer science at the Don State Technical University since 2022. Dramatically unemployed.
+Hi! My name is `Danil`. I'm an `18yo` `.NET` backend developer from Rostov-on-Don, `Russia` who is curious about software engineering, architecture and system design. Have been studying for my `bachelor's degree` in computer science at the Don State Technical University since 2022. Dramatically `unemployed`.
 
 
 ## Pets
-- 🪅 __[Crowd Parlay](https://github.com/crowdparlay)__ — a C2C bet agregation platform on microservices
-  - languages `C#` `TypeScript` `SQL` `Cypher` `HTML` `SCSS`
-  - technologies `🦄 RabbitMQ` `MassTransit` `.NET 7` `ASP.NET Core` `React` `Postgres` `Neo4j` `Swagger` `OpenID Connect` `Docker` `Kubernetes` `Istio` `GitHub Actions`
-  - architecture `Microservices` `Event-driven` `Service mesh`
-  - workflow `>5 contributors` `GitLab` `CI/CD` `Kanban` `Conventional commits` `Miro`
-- __[Radzinsky](https://github.com/undrcrxwn/radzinsky)__ — a multifunctional Telegram bot primarily used for chat-management and entertainment
-  - languages `C#`
-  - technologies `.NET 8` `ASP.NET Core` `EF Core` `Hangfire` `Mapster` `Docker` `Telegram.Bots`
-- __[Hide This Bot](https://github.com/undrcrxwn/hide-this-bot)__ — an inline Telegram bot that has gained an incredibly wide community from all over the globe
-  - languages `Python`
-  - technologies `Aiogram` `PeeWee`
+### __[🥇 Crowd Parlay](https://github.com/crowdparlay)__ — a C2C bet agregation platform on microservices
+- **languages:** <kbd>C#</kbd> <kbd>TypeScript</kbd> <kbd>SQL</kbd> <kbd>Cypher</kbd> <kbd>HTML</kbd> <kbd>SCSS</kbd>
+- **technologies:** <kbd>🦄 RabbitMQ</kbd> <kbd>MassTransit</kbd> <kbd>.NET 7</kbd> <kbd>ASP.NET Core</kbd> <kbd>React</kbd> <kbd>Postgres</kbd> <kbd>Neo4j</kbd> <kbd>Swagger</kbd> <kbd>OpenID Connect</kbd> <kbd>Docker</kbd> <kbd>Kubernetes</kbd> <kbd>Istio</kbd> <kbd>GitHub Actions</kbd>
+- **architecture:** <kbd>Microservices</kbd> <kbd>Event-driven</kbd> <kbd>Service mesh</kbd>
+- **workflow:** <kbd>>5 contributors</kbd> <kbd>GitLab</kbd> <kbd>CI/CD</kbd> <kbd>Kanban</kbd> <kbd>Conventional commits</kbd> <kbd>Miro</kbd>
+### __[🥈 Radzinsky](https://github.com/undrcrxwn/radzinsky)__ — a Telegram bot primarily used for chat-management and entertainment
+- **languages:** <kbd>C#</kbd>
+- **technologies:** <kbd>.NET 8</kbd> <kbd>ASP.NET Core</kbd> <kbd>EF Core</kbd> <kbd>Hangfire</kbd> <kbd>Mapster</kbd> <kbd>Docker</kbd> <kbd>Telegram.Bots</kbd>
+### __[🥉 Hide This Bot](https://github.com/undrcrxwn/hide-this-bot)__ — an inline Telegram bot ever used by >10k people worldwide
+- **languages:** <kbd>Python</kbd>
+- **technologies:** <kbd>Aiogram</kbd> <kbd>PeeWee</kbd>
 
 
-## Reach me
+## Contacts
 - [Telegram](https://t.me/undrcrxwn)
