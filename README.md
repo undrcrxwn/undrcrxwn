@@ -1,5 +1,5 @@
 ## Bio
-Hi! My name is `Danil`. I'm a `19yo` `.NET` backend developer from `Rostov-on-Don`, Russia who is curious about software engineering, architecture and system design. Have been studying for my `bachelor's degree` in computer science at the Don State Technical University since 2022. Dramatically `unemployed`.
+Hi! My name is `Danil`. I'm a `20yo` `.NET` backend developer from `Rostov-on-Don`, Russia who is curious about software engineering, architecture and system design. Have been studying for my `bachelor's degree` in computer science at the Don State Technical University since 2022. Dramatically `unemployed`.
 
 
 ## Pets
