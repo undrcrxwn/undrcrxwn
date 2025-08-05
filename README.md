@@ -17,4 +17,4 @@ Hi! My name is `Danil`. I'm a `20yo` `.NET` backend developer from `Rostov-on-Do
 
 
 ## Contacts
-- [Telegram](https://t.me/undrcrxwn)
+- [Telegram](https://t.me/dpatrikats)
